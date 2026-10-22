@@ -89,7 +89,7 @@ public class GameManager : MonoBehaviour
             endGameCanvas.SetActive(true);
             //SceneManager.LoadScene("gameOver_03");
             Debug.Log("3/5 score");
-            ResultsText.text = "3/5, not bad for winging it. did u guess";
+            ResultsText.text = "3/5, not bad for winging it. did you guess";
         }
         else if (score == 4)
         {
