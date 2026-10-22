@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a504fc4997b574da3b89f9f7f493178e, type: 3}
   m_Name: QuestionData 1
   m_EditorClassIdentifier: Assembly-CSharp::QuestionData
-  question: wee
-  category: wee
+  question: which of these pieces was written AFTER the year 1800?
+  category: pre-19th century program music
   answers:
-  - woo
-  - wee
-  - wee
-  - wee
+  - symphony no. 4, ives
+  - "tableau de l\u2019operation de la taille, marais"
+  - symphony no. 45, haydn
+  - sonata representativa in a major, biber
