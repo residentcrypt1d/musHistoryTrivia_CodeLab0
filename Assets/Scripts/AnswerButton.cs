@@ -13,7 +13,7 @@ public class AnswerButton : MonoBehaviour
     public GameManager scoring; // reference to other script
 
 
-    private int score = 0;
+    //private int score = 0;
     // public TMP_Text scoreText;
 
     public void SetAnswerText(string newText)

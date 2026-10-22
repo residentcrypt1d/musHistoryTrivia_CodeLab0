@@ -2924,8 +2924,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: oh no! you have to take music history exam that you didn't study for in
-    like 20 mintues!
+  m_text: oh no! you have to take a music history exam that you didn't study for
+    in like 20 mintues!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3112d432e0a034070a5d667e7bdd1d01, type: 2}
   m_sharedMaterial: {fileID: 1694545712946513584, guid: 3112d432e0a034070a5d667e7bdd1d01, type: 2}
