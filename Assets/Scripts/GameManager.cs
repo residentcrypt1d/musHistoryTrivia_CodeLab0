@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour
         if ((UnityEngine.InputSystem.Keyboard.current.bKey.wasPressedThisFrame))
         {
             endGameCanvas.SetActive(false);
-            mainGameCanvas.SetActive(true);
+            startGameCanvas.SetActive(true);
             Debug.Log("pressed B");
             score = 0;
             
